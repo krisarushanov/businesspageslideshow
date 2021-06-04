@@ -14,6 +14,18 @@ body {
 .container {
     max-width: 960px;
   }
+
+  #videoDiv {width: 100%; height: 45vh; position: relative;}
+  #video1 { margin: 0; display: block; object-fit: cover;}
+  #videoMessage { position: absolute; top: 0; left: 0;
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center; 
+  
+
+}
+    
   
   /*
    * Custom translucent site header
