@@ -1,6 +1,6 @@
 # businesspage
 
 ### Overview
-This project is a business page landing template.
+Demo site features image slideshow on landing page
 
 ### Link : https://krisarushanov.github.io/businesspageslideshow/
